@@ -8,4 +8,4 @@ venue: ACL SRW
 authors: "<strong>Md Tanzib Hosain</strong>, Md Kishor Morol"
 code: https://github.com/kraritt/zolve/
 ---
-We present a benchmark which consists of world finals', continentals' and regionals' International Collegiate Programming Contest problems. 
+We present a benchmark which consists of world finals', continentals' and regionals' international collegiate programming contest problems. 
