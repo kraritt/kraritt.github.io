@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Can Multi-turn Self-refined Single Agent LMs with Retrieval Solve Hard Coding Problems?"
+image: /images/zolve.png
+categories: research
+author: "Md Tanzib Hosain"
+venue: ACL SRW
+authors: "<strong>Md Tanzib Hosain</strong>, Md Kishor Morol"
+code: https://github.com/kraritt/zolve/
+---
+We present a benchmark which consists of world finals', continentals' and regionals' International Collegiate Programming Contest problems. 
