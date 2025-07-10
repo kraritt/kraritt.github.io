@@ -4,6 +4,7 @@ title:  "𝕏olver: Multi-Agent Reasoning with Holistic Experience Learning Just
 image: /images/xolver.png
 categories: research
 author: "Md Tanzib Hosain"
+venue: arXiv preprint
 authors: "<strong>Md Tanzib Hosain</strong>, Salman Rahman, Md Kishor Morol, Md Rizwan Parvez"
 arxiv: https://arxiv.org/abs/2506.14234
 code: https://github.com/kagnlp/Xolver/
