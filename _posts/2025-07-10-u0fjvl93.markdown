@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Multimodal Programming in Computer Science with Interactive Assistance Powered by Large Language Model"
+image: /images/u0fjvl93.png
+categories: research
+author: "Md Tanzib Hosain"
+venue: HCII
+authors: "Rajan Das Gupta, <strong>Md Tanzib Hosain</strong>, M Firoz Mridha, Salah Uddin Ahmed"
+paper: https://link.springer.com/chapter/10.1007/978-3-031-93864-1_5
+---
+We present initial implementation of an interactive homework assistance system, designed for students enrolled in introductory computer science programming course.
