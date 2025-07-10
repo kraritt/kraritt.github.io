@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "𝕏olver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team"
-date:   
+title:  "𝕏olver: Multi-Agent Reasoning with Holistic Experience Learning Just Like an Olympiad Team"  
 image: /images/xolver.png
 categories: research
 author: "Md Tanzib Hosain"
 authors: "<strong>Md Tanzib Hosain</strong>, Salman Rahman, Md Kishor Morol, Md Rizwan Parvez"
-venue: "International Conference on Robotics and Automation"
 arxiv: https://arxiv.org/abs/2506.14234
 code: https://github.com/kagnlp/Xolver/
 website: https://kagnlp.github.io/xolver.github.io/
