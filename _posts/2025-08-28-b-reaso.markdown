@@ -9,4 +9,4 @@ authors: "<strong>Md Tanzib Hosain</strong>, Md Kishor Morol"
 code: https://github.com/kraritt/b-reaso/
 huggingface: https://huggingface.co/datasets/krarit/b-reaso/
 ---
-We present a Bengali educational assessment benchmark for large language models, covering 13,497 multiple-choice questions in 50 different subjects, divided into 4 levels of difficulty. 
+We introduce a Bengali assessment benchmark for large language models, covering 13,497 multiple-choice questions in 50 different subjects, divided into 4 levels of difficulty. 
