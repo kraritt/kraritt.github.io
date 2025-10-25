@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Hybrid Self Attentive Linearized Phrase Structured Transformer based RNN for Financial Sentence Analysis with Sentence Level Explainability"
-image: /images/b-reaso.png
+image: /images/xfitrnn.png
 categories: research
 author: "Md Tanzib Hosain"
 venue: Scientific Reports
