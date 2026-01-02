@@ -6,6 +6,6 @@ categories: research
 author: "Md Tanzib Hosain"
 venue: IJCNLP-AACL Findings
 authors: "<strong>Md Tanzib Hosain</strong>, Md Kishor Morol"
-code: https://github.com/kraritt
+code: https://github.com/kraritt/b-bias-ctext
 ---
 We studied observational measures of intrinsic gender bias in formal and informal bengali; the optimal context length influences on bias detection.
