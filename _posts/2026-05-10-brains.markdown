@@ -5,7 +5,7 @@ image: /images/brains.png
 categories: research
 author: "Md Tanzib Hosain"
 venue: MIDL (Short Papers)
-authors: "Md Kishor Morol, <strong>Md Tanzib Hosain</strong>, Nafiz Fahad, Md. Jakir Hossen, Mohammad Ali Moni"
+authors: "Md Kishor Morol, <strong>Md Tanzib Hosain</strong>, Nafiz Fahad, Md Jakir Hossen, Mohammad Ali Moni"
 paper: https://openreview.net/forum?id=RMQVZPOPGS
 ---
 We present a LLM driven retrieval-augmented agent for Alzheimer’s detection and monitoring.
