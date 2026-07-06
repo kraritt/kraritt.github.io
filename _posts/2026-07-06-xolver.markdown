@@ -10,4 +10,4 @@ paper: https://openreview.net/forum?id=EvU0vEo7er
 code: https://github.com/kagnlp/Xolver/
 website: https://kagnlp.github.io/xolver.github.io/
 ---
-We introduce 𝕏olver—a training-free, multi-agent reasoning framework that equips a black-box LLM with a persistent, evolving memory of holistic experience. 
+We introduce 𝕏olver—a training-free, multi-agent reasoning framework that equips a black-box LLM with a persistent, evolving memory of holistic experience.
