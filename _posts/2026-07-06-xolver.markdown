@@ -6,7 +6,7 @@ categories: research
 author: "Md Tanzib Hosain"
 venue: ICML (AI4MATH)
 authors: "<strong>Md Tanzib Hosain</strong>, Salman Rahman, Md Kishor Morol, Md Rizwan Parvez"
-arxiv: https://openreview.net/forum?id=EvU0vEo7er
+paper: https://openreview.net/forum?id=EvU0vEo7er
 code: https://github.com/kagnlp/Xolver/
 website: https://kagnlp.github.io/xolver.github.io/
 ---
